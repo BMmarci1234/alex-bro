@@ -1,0 +1,32 @@
+{
+  "token": "MTM4NzEzMTE2ODMzOTUyNTc2Mw.GRbauX.h4Fwoh6P2UMtCqaR6Etyn5GHo40OXYgDWQnFMQ",
+  "clientId": "1387131168339525763",
+  "guildId": "1366139228748251248",
+  "logChannelId": "1387153229485314109",
+  "staffAlertChannelId": "1387132449426899014",
+  "promotionChannelId": "1366419104319410308",
+  "infractionChannelId": "1387132449426899014",
+  "highRankRoleId": "1367062785665663047",
+  "internalAffairsRoleId": "1367063987572838480",
+  "juniorHighRankRoleId": "1367063319512354866",
+
+  "policeTeamRoles": ["1367062785665663047", "1367063319512354866"],
+  "civilianTeamRoles": ["1367064270076117032", "1387754115630891048", "1387801281216909383"],
+
+  "prcServerKey": "UVZlbHAbiKBHIyrkvOPm-MrxRdvPqgDYsVCMyRHtOYYiHtIBOPNHMKvockYDM",
+  "prcCheckInterval": 60000,
+  "exoticCarPermsRoleId": "1387801281216909383",
+  "leoCarPermsRoleId": "1387801329195290695",
+  "staffAlertRoleId": "1387754115630891048",
+  "allowedECommandRoles": [
+    "1367063319512354866",
+    "1367062785665663047",
+    "1367019494446202881"
+  ],
+  "allowedInfractCommandRoles": [
+    "1367063987572838480",
+    "1367063319512354866",
+    "1367062785665663047",
+    "1367019494446202881"
+  ]
+}
